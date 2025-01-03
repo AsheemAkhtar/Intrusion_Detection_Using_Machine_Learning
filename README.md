@@ -25,3 +25,9 @@ Feature Engineering: Removes irrelevant or low-correlation features.
 Class Balancing: Uses SMOTE to address class imbalance in the dataset.
 
 Visualization: Generates correlation heatmaps to understand feature relationships.
+
+Acknowledgments
+
+Dataset Authors: Dr. Nour Moustafa and Dr. Jill Slay.
+
+Dataset: UNSW-NB15
