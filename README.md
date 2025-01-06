@@ -1,4 +1,5 @@
 Overview
+WE GOT 93% ACCURACY USING SKLEARN WHICH IS SIGNIFICANTLY BETTER THAN TENSORFLOW WHICH WAS ONLY 63% ACCURATE
 
 This project implements an Intrusion Detection System (IDS) using the UNSW-NB15 dataset. The model leverages a Transformer-based architecture to classify network traffic as malicious or benign. The dataset is preprocessed to handle noise, scale numerical features, and balance the class distribution. The project utilizes TensorFlow and SMOTE (Synthetic Minority Oversampling Technique) for training a robust and accurate classifier.
 
